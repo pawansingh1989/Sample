@@ -18,7 +18,7 @@ public class Superclass {
 	   }
 
 	   public static void main(String argd[]) {
-	      Subclass s = new Subclass(24);
+	      Subclass s = new Subclass(23);
 	      s.getAge();
 	   }
 	}
